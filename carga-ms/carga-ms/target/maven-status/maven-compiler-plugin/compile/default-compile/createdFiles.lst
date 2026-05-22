@@ -1,0 +1,15 @@
+com\aduanas\comex\cargams\dto\external\ClasificacionRequestDTO.class
+com\aduanas\comex\cargams\dto\external\ClasificacionResponseDTO.class
+com\aduanas\comex\cargams\repository\CargaRepository.class
+com\aduanas\comex\cargams\service\CargaService.class
+com\aduanas\comex\cargams\config\SecurityConfig.class
+com\aduanas\comex\cargams\entity\Carga.class
+com\aduanas\comex\cargams\dto\CrearCargaRequestDTO.class
+com\aduanas\comex\cargams\dto\external\ClasificacionRequestDTO$ClasificacionRequestDTOBuilder.class
+com\aduanas\comex\cargams\client\ClasificacionClient.class
+com\aduanas\comex\cargams\CargaMsApplication.class
+com\aduanas\comex\cargams\enums\EstadoCarga.class
+com\aduanas\comex\cargams\controller\CargaController.class
+com\aduanas\comex\cargams\entity\Carga$CargaBuilder.class
+com\aduanas\comex\cargams\dto\CargaResponseDTO$CargaResponseDTOBuilder.class
+com\aduanas\comex\cargams\dto\CargaResponseDTO.class

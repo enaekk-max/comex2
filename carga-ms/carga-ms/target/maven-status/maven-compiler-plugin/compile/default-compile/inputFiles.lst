@@ -1,0 +1,12 @@
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\CargaMsApplication.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\client\ClasificacionClient.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\config\SecurityConfig.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\controller\CargaController.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\dto\CargaResponseDTO.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\dto\CrearCargaRequestDTO.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\dto\external\ClasificacionRequestDTO.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\dto\external\ClasificacionResponseDTO.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\entity\Carga.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\enums\EstadoCarga.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\repository\CargaRepository.java
+C:\Users\estef\Desktop\Duoc\Fullstack 1\proyecto\proyecto\carga-ms\carga-ms\src\main\java\com\aduanas\comex\cargams\service\CargaService.java
